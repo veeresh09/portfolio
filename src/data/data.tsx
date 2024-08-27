@@ -341,7 +341,7 @@ export const experience: TimelineItem[] = [
     ),
   },
   {
-    date: 'Septemger 2020 - September 2023',
+    date: 'Septemger 2020 - September 2022',
     location: 'OYO (Oravel Stays Private Limited)',
     title: 'Software Development Engineer',
     content: (
